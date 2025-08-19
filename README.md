@@ -331,18 +331,20 @@ RFM analysis segments customers based on three key metrics: Recency, Frequency, 
 The Power BI dashboard is connected to the MySQL database and visualizes the RFM segmentation results. It includes the following components:
 
 ### Overview Page
-- **Key Metrics**: Total Sales, Total Customers, Total Qty Order.
-- **Sales by Segment**: Bar chart showing sales distribution across segments.
-- **Customers by Segment**: Bar chart with customer counts per segment.
-- **Scatter Plot**: Frequency Value vs. Recency Value, sized by Monetary Value.
-- **Line Chart**: Total Customers by Start of Month, with filters for parameters like Total Customers, Total Orders, Total Sales.
-- **Filters**: Select Year.
-- **Drill Through**: Link to customer details.
+- **Key Metrics**
+    - Total Sales
+    - Total Customers
+    - Total Qty Order
+- **Sales by Segment**
+- **Customers by Segment**
+- **Scatter Plot**
+- **Line Chart**
+- **Filters**
+- **Drill Through**
 
 ### Customer Details Page
 - Table displaying customer ID, Name, Last Transaction Date, Total Sales, Total Orders, R_Score, F_Score, M_Score, RFM Combination, Customer Segment.
-- Sample data includes customers like Arif Hossain (About to Sleep), Nayeem Rahman (Potential Loyalists), etc.
-
+- 
 ### RFM Analysis and Marketing Actions Page
 - Definitions of Recency, Frequency, Monetary Value.
 - Table of segments with descriptions and recommended marketing actions.
