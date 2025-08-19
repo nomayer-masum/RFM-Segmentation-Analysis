@@ -349,12 +349,6 @@ The Power BI dashboard is connected to the MySQL database and visualizes the RFM
 - Definitions of Recency, Frequency, Monetary Value.
 - Table of segments with descriptions and recommended marketing actions.
 
-![Power BI Dashboard Overview](dashboard_overview.png)
-
-![Customer Details](customer_details.png)
-
-![RFM Analysis and Marketing Actions](rfm_actions.png)
-
 To integrate with Power BI:
 - Connect to the MySQL database using Power BI's connector.
 - Use the `RFM_SEGMENTATION_DATA` view as the data source.
