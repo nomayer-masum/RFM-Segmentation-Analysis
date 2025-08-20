@@ -316,7 +316,7 @@ The Power BI dashboard is connected to the MySQL database and visualizes the RFM
 
 ### Customer Details Page
 - Table displaying customer ID, Name, Last Transaction Date, Total Sales, Total Orders, R_Score, F_Score, M_Score, RFM Combination, Customer Segment.
-- 
+
 ### RFM Analysis and Marketing Actions Page
 - Definitions of Recency, Frequency, Monetary Value.
 - Table of segments with descriptions and recommended marketing actions.
