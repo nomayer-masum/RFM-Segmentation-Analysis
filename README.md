@@ -298,34 +298,6 @@ GROUP BY customer_segment;
 | Needs Attention     | 12                | 915001         | 76250        | 25          | 9047              |
 | Champions           | 4                 | 191350         | 47838        | 11          | 1866              |
 
-## RFM Analysis and Marketing Actions
-
-RFM analysis segments customers based on three key metrics: Recency, Frequency, and Monetary Value.
-
-1. **Recency (R)**
-   - What it measures: How recently a customer made a purchase or interacted with the business.
-   - Why it's important: Recent customers are more likely to respond to promotions or offers.
-
-2. **Frequency (F)**
-   - What it measures: How often a customer makes a purchase or interacts with the business.
-   - Why it's important: Frequent customers are more loyal and ideal for upselling or retention campaigns.
-
-3. **Monetary Value (M)**
-   - What it measures: How much money a customer spends within a given period.
-   - Why it's important: Higher spenders are more profitable and should be targeted with personalized offers.
-
-### Segment Descriptions and Marketing Actions
-
-| Segment          | Description                                                                 | Marketing Action                                                                 |
-|------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| About to Sleep   | Customers who have purchased before but have shown declining engagement or inactivity. | Send personalized re-engagement campaigns, offer discounts or reminders about their previous activity. |
-| At Risk          | Customers with reduced frequency of purchase or engagement, indicating potential churn. | Offer incentives such as loyalty rewards or exclusive promotions to encourage retention. |
-| Can't Lose Them  | High-value customers with recent inactivity or signs of disengagement.      | Provide VIP treatment, personalized outreach, or exclusive offers to rekindle their loyalty. |
-| Champions        | Most loyal and valuable customers who frequently purchase and engage with your brand. | Reward with loyalty programs, exclusive previews, or priority access to new products/services. |
-| Hibernating      | Customers who were once active but have not engaged in a significant period. | Reactivate through targeted campaigns, reminders of past purchases, or enticing offers. |
-| Lost             | Customers who have completely stopped engaging despite prior activity.      | Conduct win-back campaigns or surveys to understand reasons for disengagement and address concerns. |
-| Loyal Customers  | Regular customers who consistently engage with and purchase from your brand. | Maintain engagement through personalized communication, loyalty programs, and occasional rewards. |
-
 ## Power BI Dashboard
 
 The Power BI dashboard is connected to the MySQL database and visualizes the RFM segmentation results. It includes the following components:
