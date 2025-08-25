@@ -326,4 +326,4 @@ To integrate with Power BI:
 - Use the `RFM_SEGMENTATION_DATA` view as the data source.
 - Create visuals as described for interactive analysis.
 
-- **Live Link**: https://lnkd.in/gcaWW7nn
+- **Live Link**: https://tinyurl.com/y2d2mb27
