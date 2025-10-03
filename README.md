@@ -327,3 +327,16 @@ To integrate with Power BI:
 - Create visuals as described for interactive analysis.
 
 - **Live Link**: https://tinyurl.com/y2d2mb27
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomayer-masum/RFM-Segmentation-Analysis/main/RFM%20Segmentation_page-0001.jpg" alt="RFM Segmentation - Page 1" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomayer-masum/RFM-Segmentation-Analysis/main/RFM%20Segmentation_page-0002.jpg" alt="RFM Segmentation - Page 2" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomayer-masum/RFM-Segmentation-Analysis/main/RFM%20Segmentation_page-0003.jpg" alt="RFM Segmentation - Page 3" width="800"/>
+</p>
+
